@@ -1,6 +1,6 @@
 
-short videos clone [Working link](https://short-videos.netlify.app/).
-	# Technology used
+short videos clone [Working link](https://short-videos.netlify.app/)
+# Technology used
 - React.js
 - Firebase
 - React-bootstrap
