@@ -1,0 +1,66 @@
+.video-container {
+    height: 80vh;
+    border-radius: 20px;
+    overflow: scroll;
+    scroll-snap-type: y mandatory;
+    scrollbar-width: none;
+    margin-bottom: 20px;
+
+}
+
+.video-container::-webkit-scrollbar {
+    display: none;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.modal-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.video-container2{
+   width: 60%;
+   height: 100%;
+}
+.comment-container{
+    width: 20%;
+   height: 100%;
+   margin-left: 20px;
+}
+
+.modal-video{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-video video{
+    height: 84vh;
+}
+
+.video-style{
+    height: 70vh;
+}
+
+
+
+.card1{
+    height: 50vh;
+}
+
+.commentsDiv{
+    overflow-y: scroll;
+}
+
+.commentsDiv::-webkit-scrollbar {
+    display: none;
+  }
+
+  .brand:hover{
+    cursor: pointer;
+  }

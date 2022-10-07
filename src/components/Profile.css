@@ -1,0 +1,20 @@
+
+.upper-part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.profile-img{
+    margin-right: 30px;
+}
+.info{
+    text-align: left;
+}
+.profile-videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.profile-videos video{
+    margin:0 10px 0 10px;
+}

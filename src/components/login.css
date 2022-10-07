@@ -1,0 +1,36 @@
+.login-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logincard{
+    width: 25vw;
+    margin-top: 5%;
+}
+.form-login{
+    text-align: left;
+}
+
+.insta-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20px;
+    height: 50px;
+    margin-top: 20px;
+}
+.alert-danger{
+    font-size:1rem;
+}
+
+.second-card{
+    font-size:0.8rem;
+}
+
+.imgcar{
+    height: 500px;
+    width: 400px;
+}
+
+
+
